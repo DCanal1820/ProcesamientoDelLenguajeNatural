@@ -13,15 +13,15 @@
 
 ## 📋 Descripción General
 
-Este repositorio contiene la implementación de cuatro desafíos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural de la CEIA de la FIUBA. Cada desafío aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
+Este repositorio contiene la implementación de cuatro desafIos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural de la CEIA de la FIUBA. Cada desafio aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
 
-Los desafíos fueron desarrollados utilizando Python y diversas librerías especializadas en NLP, incluyendo scikit-learn, TensorFlow/Keras, PyTorch, Gensim y otras herramientas modernas del ecosistema de machine learning.
+Los desafios fueron desarrollados utilizando Python y diversas librerías especializadas en NLP, incluyendo scikit-learn, TensorFlow/Keras, PyTorch, Gensim y otras herramientas modernas del ecosistema de machine learning.
 
 ---
 
-## 🎯 Desafíos Implementados
+## 🎯 desafios Implementados
 
-### 📊 Desafío 1: Vectorización y Clasificación de Documentos
+### 📊 Desafio 1: Vectorización y Clasificación de Documentos
 **Archivo:** `Desafio 1/Canal_Desafio_1.ipynb`
 
 #### Objetivos
@@ -49,7 +49,7 @@ Los desafíos fueron desarrollados utilizando Python y diversas librerías espec
 
 ---
 
-### 🔤 Desafío 2: Word Embeddings con Word2Vec
+### 🔤 Desafio 2: Word Embeddings con Word2Vec
 **Archivo:** `Desafio 2/Desafio_2_Canal_David.ipynb`
 
 #### Objetivos
@@ -78,7 +78,7 @@ Los desafíos fueron desarrollados utilizando Python y diversas librerías espec
 
 ---
 
-### 🧠 Desafío 3: Modelo de Lenguaje con RNN
+### 🧠 Desafio 3: Modelo de Lenguaje con RNN
 **Archivo:** `Desafio 3/Desafio_3_Canal_David.ipynb`
 
 #### Objetivos
@@ -111,7 +111,7 @@ Los desafíos fueron desarrollados utilizando Python y diversas librerías espec
 
 ---
 
-### 🤖 Desafío 4: QA Bot con LSTM
+### 🤖 Desafio 4: QA Bot con LSTM
 **Archivo:** `Desafio 4/Desafio_4_Canal_David.ipynb`
 
 #### Objetivos
@@ -174,22 +174,22 @@ Los desafíos fueron desarrollados utilizando Python y diversas librerías espec
 
 ## 📈 Métricas y Resultados
 
-### Desafío 1: Clasificación
+### desafio 1: Clasificación
 - **F1-Score macro**: 0.7015 (ComplementNB con bigramas)
 - **Coherencia similitud**: 68% promedio
 - **Accuracy**: 48.6% (modelo prototipos)
 
-### Desafío 2: Word Embeddings
+### desafio 2: Word Embeddings
 - **Vocabulario**: 620 palabras
 - **Convergencia**: 20 épocas
 - **Silhouette Score**: 0.0865 (k=2)
 
-### Desafío 3: Modelo de Lenguaje
+### desafio 3: Modelo de Lenguaje
 - **Perplejidad**: 4.7408 (GRU)
 - **Accuracy**: 51.01% (GRU)
 - **Tiempo entrenamiento**: 1,141 segundos
 
-### Desafío 4: QA Bot
+### desafio 4: QA Bot
 - **Accuracy**: 100% (entrenamiento y validación)
 - **Loss**: 0.018 (validación)
 - **Parámetros**: 571,540
@@ -237,7 +237,7 @@ Desafios_Canal/
 
 ---
 
-## 🚀 Cómo Ejecutar los Desafíos
+## 🚀 Cómo Ejecutar los desafios
 
 ### Requisitos Previos
 ```bash
@@ -248,10 +248,10 @@ pip install beautifulsoup4 requests
 ```
 
 ### Ejecución
-1. **Desafío 1**: Abrir `Canal_Desafio_1.ipynb` y ejecutar todas las celdas
-2. **Desafío 2**: Abrir `Desafio_2_Canal_David.ipynb` y ejecutar secuencialmente
-3. **Desafío 3**: Abrir `Desafio_3_Canal_David.ipynb` y ejecutar (incluye interfaz Gradio)
-4. **Desafío 4**: Abrir `Desafio_4_Canal_David.ipynb` y ejecutar para entrenar el QA Bot
+1. **desafio 1**: Abrir `Canal_Desafio_1.ipynb` y ejecutar todas las celdas
+2. **desafio 2**: Abrir `Desafio_2_Canal_David.ipynb` y ejecutar secuencialmente
+3. **desafio 3**: Abrir `Desafio_3_Canal_David.ipynb` y ejecutar (incluye interfaz Gradio)
+4. **desafio 4**: Abrir `Desafio_4_Canal_David.ipynb` y ejecutar para entrenar el QA Bot
 
 ---
 
