@@ -1,4 +1,4 @@
-# Procesamiento de Lenguaje Natural - Desafios
+# Procesamiento de Lenguaje Natural I - Desafios
 
 <img src="https://github.com/hernancontigiani/ceia_memorias_especializacion/raw/master/Figures/logoFIUBA.jpg" width="300" align="center">
 
@@ -13,13 +13,13 @@
 
 ## 📋 Descripción General
 
-Este repositorio contiene la implementación de cuatro desafIos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural de la CEIA de la FIUBA. Cada desafio aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
+Este repositorio contiene la implementación de cuatro desafIos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural I de la CEIA de la FIUBA. Cada desafio aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
 
 Los desafios fueron desarrollados utilizando Python y diversas librerías especializadas en NLP, incluyendo scikit-learn, TensorFlow/Keras, PyTorch, Gensim y otras herramientas modernas del ecosistema de machine learning.
 
 ---
 
-## 🎯 desafios Implementados
+## 🎯 Desafios Implementados
 
 ### 📊 Desafio 1: Vectorización y Clasificación de Documentos
 **Archivo:** `Desafio 1/Canal_Desafio_1.ipynb`
@@ -174,22 +174,22 @@ Los desafios fueron desarrollados utilizando Python y diversas librerías especi
 
 ## 📈 Métricas y Resultados
 
-### desafio 1: Clasificación
+### Desafio 1: Clasificación
 - **F1-Score macro**: 0.7015 (ComplementNB con bigramas)
 - **Coherencia similitud**: 68% promedio
 - **Accuracy**: 48.6% (modelo prototipos)
 
-### desafio 2: Word Embeddings
+### Desafio 2: Word Embeddings
 - **Vocabulario**: 620 palabras
 - **Convergencia**: 20 épocas
 - **Silhouette Score**: 0.0865 (k=2)
 
-### desafio 3: Modelo de Lenguaje
+### Desafio 3: Modelo de Lenguaje
 - **Perplejidad**: 4.7408 (GRU)
 - **Accuracy**: 51.01% (GRU)
 - **Tiempo entrenamiento**: 1,141 segundos
 
-### desafio 4: QA Bot
+### Desafio 4: QA Bot
 - **Accuracy**: 100% (entrenamiento y validación)
 - **Loss**: 0.018 (validación)
 - **Parámetros**: 571,540
@@ -255,14 +255,6 @@ pip install beautifulsoup4 requests
 
 ---
 
-## 👨‍🏫 Profesores
-
-- **Dr. Rodrigo Cardenas Szigety** (2022-actual)
-- **Dr. Nicolás Vattuone** (2025-actual)
-- **Esp. Ing. Hernán Contigiani** (2021-2022)
-
----
-
 ## 📚 Referencias y Material de Clase
 
 Este trabajo se realizó utilizando el material de clases y ejercicios proporcionados en el repositorio oficial de la materia:
@@ -276,16 +268,3 @@ Este trabajo se realizó utilizando el material de clases y ejercicios proporcio
 - Clase 6: Modelos Seq2Seq, bots conversacionales y traductores
 - Clase 7: Celdas con Attention, Transformers, BERT y ELMo
 - Clase 8: Deployment de servicios NLP, Flask, APIs, Docker y Tensorflow Serving
-
----
-
-## 📞 Contacto
-
-**Estudiante:** David Canal  
-**Materia:** Procesamiento del Lenguaje Natural  
-**Institución:** Facultad de Ingeniería - Universidad de Buenos Aires  
-**Laboratorio:** Sistemas Embebidos
-
----
-
-*Este repositorio fue desarrollado como parte de los trabajos prácticos de la materia Procesamiento del Lenguaje Natural del Centro de Estudios en Ingeniería Artificial (CEIA) de la Facultad de Ingeniería de la Universidad de Buenos Aires.*
