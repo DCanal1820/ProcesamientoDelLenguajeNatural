@@ -1,19 +1,19 @@
-# Procesamiento del Lenguaje Natural - Desafíos
+# Procesamiento de Lenguaje Natural - Desafios
 
 <img src="https://github.com/hernancontigiani/ceia_memorias_especializacion/raw/master/Figures/logoFIUBA.jpg" width="300" align="center">
 
-## Universidad de Buenos Aires - Facultad de Ingeniería
-### Centro de Estudios en Ingeniería Artificial (CEIA)
+## Universidad de Buenos Aires (UBA) - Facultad de Ingeniería (FIUBA)
+### Laboratorio de Sistemas Embebidos
+### Carrera de Especialización en Ingeniería Artificial (CEIA)
 ### Materia: Procesamiento del Lenguaje Natural
 
-**Estudiante:** David Canal  
-**Laboratorio:** Sistemas Embebidos
+**Estudiante:** Mg. Ing. David Canal  
 
 ---
 
 ## 📋 Descripción General
 
-Este repositorio contiene la implementación de cuatro desafíos prácticos realizados en el marco de la materia **Procesamiento del Lenguaje Natural** de la Facultad de Ingeniería de la Universidad de Buenos Aires. Cada desafío aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
+Este repositorio contiene la implementación de cuatro desafíos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural de la CEIA de la FIUBA. Cada desafío aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
 
 Los desafíos fueron desarrollados utilizando Python y diversas librerías especializadas en NLP, incluyendo scikit-learn, TensorFlow/Keras, PyTorch, Gensim y otras herramientas modernas del ecosistema de machine learning.
 
