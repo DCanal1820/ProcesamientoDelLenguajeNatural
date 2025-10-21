@@ -13,7 +13,7 @@
 
 ## 📋 Descripción General
 
-Este repositorio contiene la implementación de cuatro desafIos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural I de la CEIA de la FIUBA. Cada desafio aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural, desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
+Este repositorio contiene la implementación de cuatro desafIos prácticos realizados en el marco de la materia Procesamiento de Lenguaje Natural I de la CEIA de la FIUBA. Cada desafio aborda diferentes aspectos fundamentales del procesamiento de lenguaje natural (https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural.git), desde técnicas básicas de vectorización hasta modelos avanzados de redes neuronales recurrentes.
 
 Los desafios fueron desarrollados utilizando Python y diversas librerías especializadas en NLP, incluyendo scikit-learn, TensorFlow/Keras, PyTorch, Gensim y otras herramientas modernas del ecosistema de machine learning.
 
